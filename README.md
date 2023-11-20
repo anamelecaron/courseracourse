@@ -1,2 +1,2 @@
 # courseracourse
-Coursera Course Repoditory
+Coursera Course Repository
